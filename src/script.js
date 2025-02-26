@@ -4,6 +4,8 @@ function calcularIdade(){
     document.getElementById("resultado").innerHTML = `Idade é : ${idade}`;
 }
 
+// Tarefas para proxima aula:
+
 // Novas implementações
 // - Utilizar o ano atual.
 // - Aceitar apenas ano maior do que 1900.
